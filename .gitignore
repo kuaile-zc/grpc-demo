@@ -15,3 +15,5 @@ functional-tests/build/
 *.iws
 
 /logs/
+
+/target
